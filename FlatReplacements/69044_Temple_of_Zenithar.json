@@ -1,0 +1,22 @@
+[
+{
+    "Replacement": "182_9-0 - 69044_0-0",
+    "Category": "Temple of Zenithar",
+    "Description": "Member",
+    "Regions": [-1],
+    "FactionId": 22,
+    "LocationTypes": 1,
+    "BuildingType": 14,
+    "QualityMin": 1,
+    "QualityMax": 20,
+    "NameBank": 2,
+    "TextureArchive": 182,
+    "TextureRecord": 9,
+    "ReplaceTextureArchive": 69044,
+    "ReplaceTextureRecord": 0,
+    "FlatTextureName": "-1",
+    "UseExactDimensions": false,
+    "FlatPortrait": 6904400,
+    "Priority": 200
+}
+]

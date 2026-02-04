@@ -1,0 +1,22 @@
+[
+{
+	"Replacement": "181_4-0 - 69038_0-0",
+	"Category": "Temple of Kynareth",
+	"Description": "Blesser",
+	"Regions": [-1],
+	"FactionId": 33,
+	"LocationTypes": 1,
+	"BuildingType": 14,
+	"QualityMin": 1,
+	"QualityMax": 20,
+	"NameBank": 7,
+	"TextureArchive": 181,
+	"TextureRecord": 4,
+	"ReplaceTextureArchive": 69038,
+	"ReplaceTextureRecord": 0,
+	"FlatTextureName": "-1",
+	"UseExactDimensions": false,
+	"FlatPortrait": 6903800,
+	"Priority": 200
+}
+]
