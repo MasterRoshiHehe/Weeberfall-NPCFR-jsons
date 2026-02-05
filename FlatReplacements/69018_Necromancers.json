@@ -1,0 +1,21 @@
+[
+{
+	"Replacement": "184_10-0 - 69018_0-0",
+	"Category": "Necromancers",
+	"Description": "Mysterious Red Cloak Girl",
+	"Regions": [-1],
+	"FactionId": -1,
+	"BuildingType": -1,
+	"NameBank": -1,
+	"QualityMin": 1,
+	"QualityMax": 20,
+	"TextureArchive": 184,
+	"TextureRecord": 10,
+	"ReplaceTextureArchive": 69018,
+	"ReplaceTextureRecord": 0,
+	"FlatTextureName": "-1",
+	"UseExactDimensions": false,
+	"FlatPortrait": 6901800,
+	"Priority": 10
+}
+]
