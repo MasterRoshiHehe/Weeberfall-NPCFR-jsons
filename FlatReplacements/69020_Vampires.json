@@ -1,0 +1,22 @@
+[
+{
+    "Replacement": "184_29-0 - 69020_0-0",
+    "Category": "Vampires",
+    "Description": "Pale Imperial Girl",
+    "Regions": [-1],
+    "FactionId": 0,
+    "LocationTypes": 0,
+    "BuildingType": 0,
+    "QualityMin": 1,
+    "QualityMax": 20,
+    "NameBank": 7,
+    "TextureArchive": 184,
+    "TextureRecord": 29,
+    "ReplaceTextureArchive": 69020,
+    "ReplaceTextureRecord": 0,
+    "FlatTextureName": "-1",
+    "UseExactDimensions": false,
+    "FlatPortrait": 6902000,
+    "Priority": 5
+}
+]
