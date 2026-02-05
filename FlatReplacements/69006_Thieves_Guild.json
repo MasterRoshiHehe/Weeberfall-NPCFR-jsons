@@ -1,0 +1,41 @@
+[
+{
+	"Replacement": "182_35-0 - 69006_0-0",
+	"Category": "Thieves Guild",
+	"Description": "First Appraiser",
+	"Regions": [-1],
+	"FactionId": 42,
+	"BuildingType": -1,
+	"QualityMin": 1,
+	"QualityMax": 20,
+	"NameBank": 1,
+	"TextureArchive": 182,
+	"TextureRecord": 35,
+	"ReplaceTextureArchive": 69006,
+	"ReplaceTextureRecord": 0,
+	"FlatTextureName": "-1",
+	"UseExactDimensions": false,
+	"FlatPortrait": 6900600,
+	"Priority": 20
+},
+{
+	"Replacement": "182_6-0 - 69006_1-0",
+	"Category": "Thieves Guild",
+	"Description": "Argonian Dude",
+	"Regions": [-1],
+	"FactionId": 42,
+	"BuildingType": -1,
+	"LocationTypes": 1,
+	"QualityMin": 1,
+	"QualityMax": 20,
+	"NameBank": 7,
+	"TextureArchive": 182,
+	"TextureRecord": 6,
+	"ReplaceTextureArchive": 69006,
+	"ReplaceTextureRecord": 1,
+	"FlatTextureName": "-1",
+	"UseExactDimensions": false,
+	"FlatPortrait": 6900601,
+	"Priority": 20
+}
+]
