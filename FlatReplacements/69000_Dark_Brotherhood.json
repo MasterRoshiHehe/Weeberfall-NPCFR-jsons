@@ -1,0 +1,40 @@
+[
+{
+	"Replacement":	"182_25-0 - 69000_1-0",
+	"Category": 	"Dark Brotherhood",
+	"Description": 	"Venom Master",
+	"Regions": [-1],
+	"FactionId": 108,
+	"BuildingType": -1,
+	"QualityMin": 1,
+	"QualityMax": 20,
+	"NameBank": 7,
+	"TextureArchive": 182,
+	"TextureRecord": 25,
+	"ReplaceTextureArchive": 69000,
+	"ReplaceTextureRecord": 1,
+	"FlatTextureName": "-1",
+	"UseExactDimensions": false,
+	"FlatPortrait": 6900001,
+	"Priority": 10
+},
+{
+	"Replacement": "182_44-0 - 69000_2-0",
+	"Category": "Dark Brotherhood",
+	"Description": "Dark Binder",
+	"Regions": [-1],
+	"FactionId": 108,
+	"BuildingType": -1,
+	"QualityMin": 1,
+	"QualityMax": 20,
+	"NameBank": 3,
+	"TextureArchive": 182,
+	"TextureRecord": 44,
+	"ReplaceTextureArchive": 69000,
+	"ReplaceTextureRecord": 2,
+	"FlatTextureName": "-1",
+	"UseExactDimensions": false,
+	"FlatPortrait": 6900002,
+	"Priority": 10
+}
+]
