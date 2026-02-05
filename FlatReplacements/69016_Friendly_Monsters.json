@@ -1,0 +1,38 @@
+[
+{
+	"Replacement": "357_10-0 - 69016_0-0",
+	"Category": "Friendly Monsters",
+	"Description": "Ghost Girl",
+	"Regions":  [-1],
+	"FactionId": -1,
+	"BuildingType": 2,
+	"QualityMin": 1,
+	"QualityMax": 20,
+	"TextureArchive": 357,
+	"TextureRecord": 10,
+	"ReplaceTextureArchive": 69016,
+	"ReplaceTextureRecord": 0,
+	"FlatTextureName": "-1",	
+	"UseExactDimensions": false,
+	"FlatPortrait": 6901600,
+	"Priority": 1
+},
+{
+	"Replacement": "179_0-0 - 69016_1-0",
+	"Category": "Witches Coven",
+	"Description": "Centaur Girl",
+	"Regions": [-1],
+	"FactionId": -1,
+	"BuildingType": -1,
+	"QualityMin": 1,
+	"QualityMax": 20,
+	"TextureArchive": 179,
+	"TextureRecord": 0,
+	"ReplaceTextureArchive": 69016,
+	"ReplaceTextureRecord": 1,
+	"FlatTextureName": "-1",
+	"UseExactDimensions": true,
+	"FlatPortrait": 6901601,
+	"Priority": 10
+}
+]
