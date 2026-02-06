@@ -1,0 +1,20 @@
+[
+{
+	"Replacement": "179_4-0 - 69022_1-0",
+	"Category": "Witches Coven",
+	"Description": "Guard Girl with Spear",
+	"Regions": [-1],
+	"FactionId": -1,
+	"BuildingType": -1,
+	"QualityMin": 1,
+	"QualityMax": 20,
+	"TextureArchive": 179,
+	"TextureRecord": 4,
+	"ReplaceTextureArchive": 69022,
+	"ReplaceTextureRecord": 0,
+	"FlatTextureName": "-1",
+	"UseExactDimensions": true,
+	"FlatPortrait": 6902200,
+	"Priority": 10
+}
+]
