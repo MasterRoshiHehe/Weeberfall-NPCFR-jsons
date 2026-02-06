@@ -1,0 +1,40 @@
+[
+{
+	"Replacement": "182_59-0 - 69092_0-0",
+	"Category": "Armorers",
+	"Description": "Female Nord Blacksmith",
+	"Regions": [-1],
+	"FactionId": -1,
+	"BuildingType": -1,
+	"QualityMin": 1,
+	"QualityMax": 20,
+	"NameBank": 2,
+	"TextureArchive": 182,
+	"TextureRecord": 59,
+	"ReplaceTextureArchive": 69092,
+	"ReplaceTextureRecord": 0,
+	"FlatTextureName": "-1",
+	"UseExactDimensions": false,
+	"FlatPortrait": 6909200,
+	"Priority": 10
+},
+{
+	"Replacement": "182_59-0 - 69092_1-0",
+	"Category": "Armorers",
+	"Description": "Female Nord Blacksmith",
+	"Regions": [-1],
+	"FactionId": -1,
+	"BuildingType": -1,
+	"QualityMin": 1,
+	"QualityMax": 20,
+	"NameBank": 2,
+	"TextureArchive": 182,
+	"TextureRecord": 59,
+	"ReplaceTextureArchive": 69092,
+	"ReplaceTextureRecord": 1,
+	"FlatTextureName": "-1",
+	"UseExactDimensions": false,
+	"FlatPortrait": 6909201,
+	"Priority": 10
+}
+]

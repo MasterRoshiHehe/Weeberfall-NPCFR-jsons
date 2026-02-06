@@ -1,0 +1,21 @@
+[
+{
+	"Replacement": "182_16-0 - 69090_0-0",
+	"Category": "Alchemists",
+	"Description": "Male Redguard Potion Seller",
+	"Regions": [-1],
+	"FactionId": -1,
+	"BuildingType": 0,
+	"QualityMin": 1,
+	"QualityMax": 20,
+	"NameBank": 1,
+	"TextureArchive": 182,
+	"TextureRecord": 16,
+	"ReplaceTextureArchive": 69090,
+	"ReplaceTextureRecord": 0,
+	"FlatTextureName": "-1",
+	"UseExactDimensions": false,
+	"FlatPortrait": 69090,
+	"Priority": 10
+}
+]
