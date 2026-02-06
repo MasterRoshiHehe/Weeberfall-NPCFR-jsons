@@ -1,0 +1,40 @@
+[
+{
+	"Replacement":	"357_15-0 - 69114_0-0",
+	"Category": 	"Nobles",
+	"Description": 	"Akorithi",
+	"Regions": [20],
+	"FactionId": -1,
+	"BuildingType": 3,
+	"QualityMin": 1,
+	"QualityMax": 20,
+	"NameBank": -1,
+	"TextureArchive": 357,
+	"TextureRecord": 15,
+	"ReplaceTextureArchive": 69114,
+	"ReplaceTextureRecord": 0,
+	"FlatTextureName": "-1",
+	"UseExactDimensions": false,
+	"FlatPortrait": 6911400,
+	"Priority": 100
+},
+{
+	"Replacement":	"334_21-0 - 69114_1-0",
+	"Category": 	"Nobles",
+	"Description": 	"Aubk-i",
+	"Regions": [17],
+	"FactionId": -1,
+	"BuildingType": 3,
+	"QualityMin": 1,
+	"QualityMax": 20,
+	"NameBank": -1,
+	"TextureArchive": 334,
+	"TextureRecord": 21,
+	"ReplaceTextureArchive": 69114,
+	"ReplaceTextureRecord": 1,
+	"FlatTextureName": "-1",
+	"UseExactDimensions": false,
+	"FlatPortrait": 6911401,
+	"Priority": 100
+}
+]
