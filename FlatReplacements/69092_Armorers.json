@@ -21,12 +21,12 @@
 {
 	"Replacement": "182_59-0 - 69092_1-0",
 	"Category": "Armorers",
-	"Description": "Female Nord Blacksmith",
+	"Description": "Female Orc Blacksmith",
 	"Regions": [-1],
 	"FactionId": -1,
 	"BuildingType": -1,
 	"QualityMin": 1,
-	"QualityMax": 20,
+	"QualityMax": 9,
 	"NameBank": 2,
 	"TextureArchive": 182,
 	"TextureRecord": 59,
@@ -35,6 +35,6 @@
 	"FlatTextureName": "-1",
 	"UseExactDimensions": false,
 	"FlatPortrait": 6909201,
-	"Priority": 10
+	"Priority": 5
 }
 ]

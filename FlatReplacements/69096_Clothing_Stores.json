@@ -1,0 +1,21 @@
+[
+{
+	"Replacement": "182_15-0 - 69096_0-0",
+	"Category": "Clothing Stores",
+	"Description": "Female Orc Clothier",
+	"Regions": [-1],
+	"FactionId": -1,
+	"BuildingType": 6,
+	"QualityMin": 1,
+	"QualityMax": 10,
+	"NameBank": 2,
+	"TextureArchive": 182,
+	"TextureRecord": 15,
+	"ReplaceTextureArchive": 69096,
+	"ReplaceTextureRecord": 0,
+	"FlatTextureName": "-1",
+	"UseExactDimensions": false,
+	"FlatPortrait": 6909600,
+	"Priority": 5
+}
+]
