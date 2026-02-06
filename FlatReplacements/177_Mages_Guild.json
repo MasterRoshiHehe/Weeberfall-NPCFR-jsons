@@ -12,7 +12,7 @@
 	"FlatTextureName": "-1",
 	"UseExactDimensions": false,
 	"FlatPortrait": 6917700,
-	"Priority": 10
+	"Priority": 1
 	},
 	{
 	"Regions": [-1],
@@ -27,7 +27,7 @@
 	"FlatTextureName": "-1",
 	"UseExactDimensions": false,
 	"FlatPortrait": 6917701,
-	"Priority": 10
+	"Priority": 1
 	},
 	{
 	"Regions": [-1],
@@ -42,7 +42,7 @@
 	"FlatTextureName": "-1",
 	"UseExactDimensions": false,
 	"FlatPortrait": 6917702,
-	"Priority": 10
+	"Priority": 1
 	},
 	{
 	"Regions": [-1],
@@ -57,7 +57,7 @@
 	"FlatTextureName": "-1",
 	"UseExactDimensions": false,
 	"FlatPortrait": 6917703,
-	"Priority": 10
+	"Priority": 1
 	},
 	{
 	"Regions": [-1],
@@ -72,7 +72,7 @@
 	"FlatTextureName": "-1",
 	"UseExactDimensions": false,
 	"FlatPortrait": 6917704,
-	"Priority": 10
+	"Priority": 1
 	},
 	{
 	"Regions": [-1],
@@ -87,6 +87,6 @@
 	"FlatTextureName": "-1",
 	"UseExactDimensions": false,
 	"FlatPortrait": 6917705,
-	"Priority": 10
+	"Priority": 1
 	}
 ]

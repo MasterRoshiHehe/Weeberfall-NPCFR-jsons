@@ -1,22 +1,22 @@
 [
 {
-  "Replacement": "182_12-0 - 69026_0-0",
-  "Category": "Farmers",
-  "Description": "Orc Girl Farmer carrying buckets",
-  "Regions": [-1],
-  "FactionId": -1,
-  "BuildingType": -1,
-  "QualityMin": 1,
-  "QualityMax": 9,
-  "NameBank": 2,
-  "TextureArchive": 182,
-  "TextureRecord": 12,
-  "ReplaceTextureArchive": 69026,
-  "ReplaceTextureRecord": 0,
-  "FlatTextureName": "-1",
-  "UseExactDimensions": false,
-  "FlatPortrait": 6902600,
-	"Priority": 5
+	"Replacement": "182_12-0 - 69026_0-0",
+	"Category": "Farmers",
+	"Description": "Orc Girl Farmer carrying buckets",
+	"Regions": [-1],
+	"FactionId": -1,
+	"BuildingType": -1,
+	"QualityMin": 1,
+	"QualityMax": 9,
+	"NameBank": 2,
+	"TextureArchive": 182,
+	"TextureRecord": 12,
+	"ReplaceTextureArchive": 69026,
+	"ReplaceTextureRecord": 0,
+	"FlatTextureName": "-1",
+	"UseExactDimensions": false,
+	"FlatPortrait": 6902600,
+	"Priority": 1
 },
 {
 	"Replacement": "184_17-0 - 69026_1-0",
@@ -35,7 +35,7 @@
 	"FlatTextureName": "-1",
 	"UseExactDimensions": false,
 	"FlatPortrait": 6902601,
-	"Priority": 5
+	"Priority": 1
 },
 {
 	"Replacement": "184_17-0 - 69026_2-0",
@@ -54,7 +54,7 @@
 	"FlatTextureName": "-1",
 	"UseExactDimensions": false,
 	"FlatPortrait": 6902602,
-	"Priority": 5
+	"Priority": 1
 },
 {
 	"Replacement": "184_17-0 - 69026_2-0 - 828",
@@ -74,7 +74,7 @@
 	"FlatTextureName": "-1",
 	"UseExactDimensions": false,
 	"FlatPortrait": 6902602,
-	"Priority": 10
+	"Priority": 1
 },
 {
 	"Replacement": "182_10-0 - 69026_3-0",
@@ -93,25 +93,25 @@
 	"FlatTextureName": "-1",
 	"UseExactDimensions": false,
 	"FlatPortrait": 6902603,
-	"Priority": 5
+	"Priority": 1
 },
 {
-  "Replacement": "184_29-0 - 69026_4-0",
-  "Category": "Orcs",
-  "Description": "Orc Farmer Woman Carrying Basket of Potatoes",
-  "Regions": [-1],
-  "FactionId": -1,
-  "BuildingType": -1,
-  "QualityMin": 1,
-  "QualityMax": 10,
-  "NameBank": 2,
-  "TextureArchive": 184,
-  "TextureRecord": 29,
-  "ReplaceTextureArchive": 69026,
-  "ReplaceTextureRecord": 4,
-  "FlatTextureName": "-1",
-  "UseExactDimensions": false,
-  "FlatPortrait": 6902604,
-	"Priority": 5
+	"Replacement": "184_29-0 - 69026_4-0",
+	"Category": "Orcs",
+	"Description": "Orc Farmer Woman Carrying Basket of Potatoes",
+	"Regions": [-1],
+	"FactionId": -1,
+	"BuildingType": -1,
+	"QualityMin": 1,
+	"QualityMax": 10,
+	"NameBank": 2,
+	"TextureArchive": 184,
+	"TextureRecord": 29,
+	"ReplaceTextureArchive": 69026,
+	"ReplaceTextureRecord": 4,
+	"FlatTextureName": "-1",
+	"UseExactDimensions": false,
+	"FlatPortrait": 6902604,
+	"Priority": 1
 }
 ]

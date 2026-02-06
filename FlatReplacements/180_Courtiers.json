@@ -12,7 +12,7 @@
     "FlatTextureName": "-1",
     "UseExactDimensions": false,
     "FlatPortrait": 6918000,
-	"Priority": 10
+	"Priority": 1
   },
   {
     "Regions": [-1],
@@ -27,7 +27,7 @@
     "FlatTextureName": "-1",
     "UseExactDimensions": false,
     "FlatPortrait": 6918001,
-	"Priority": 10
+	"Priority": 1
   },
   {
     "Regions": [-1],
@@ -42,7 +42,7 @@
     "FlatTextureName": "-1",
     "UseExactDimensions": false,
     "FlatPortrait": 6918002,
-	"Priority": 10
+	"Priority": 1
   },
   {
     "Regions": [-1],
@@ -57,6 +57,6 @@
     "FlatTextureName": "-1",
     "UseExactDimensions": false,
     "FlatPortrait": 6918003,
-	"Priority": 10
+	"Priority": 1
   }
 ]

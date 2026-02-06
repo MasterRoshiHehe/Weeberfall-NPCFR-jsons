@@ -16,7 +16,7 @@
 	"FlatTextureName": "-1",
 	"UseExactDimensions": false,
 	"FlatPortrait": 6909200,
-	"Priority": 10
+	"Priority": 1
 },
 {
 	"Replacement": "182_59-0 - 69092_1-0",
@@ -35,6 +35,6 @@
 	"FlatTextureName": "-1",
 	"UseExactDimensions": false,
 	"FlatPortrait": 6909201,
-	"Priority": 5
+	"Priority": 1
 }
 ]

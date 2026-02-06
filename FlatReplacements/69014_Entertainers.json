@@ -16,7 +16,7 @@
 	"FlatTextureName": "-1",
 	"UseExactDimensions": false,
 	"FlatPortrait": 6901400,
-	"Priority": 10
+	"Priority": 1
 },
 {
   "Replacement": "182_33-0 - 69014_1",
@@ -35,7 +35,7 @@
   "FlatTextureName": "-1",
   "UseExactDimensions": false,
   "FlatPortrait": 628,
-	"Priority": 5
+	"Priority": 1
 },
 {
   "Replacement": "184_11-0 - 69014_2-0",
@@ -54,7 +54,7 @@
   "FlatTextureName": "-1",
   "UseExactDimensions": false,
   "FlatPortrait": 6901402,
-	"Priority": 5
+	"Priority": 1
 },
 {
   "Replacement": "184_12-0 - 69014_3-0",
@@ -73,7 +73,7 @@
   "FlatTextureName": "-1",
   "UseExactDimensions": false,
   "FlatPortrait": 6901403,
-	"Priority": 5
+	"Priority": 1
 },
 {
   "Replacement": "182_47-0 - 69014_4-0",
@@ -92,7 +92,7 @@
   "FlatTextureName": "-1",
   "UseExactDimensions": false,
   "FlatPortrait": 6901404,
-	"Priority": 5
+	"Priority": 1
 },
 {
   "Replacement": "182_48-0 - 69014_5-0",
@@ -111,7 +111,7 @@
   "FlatTextureName": "-1",
   "UseExactDimensions": false,
   "FlatPortrait": 6901405,
-	"Priority": 5
+	"Priority": 1
 },
 {
   "Replacement": "184_14-0 - 69014_6-0",
@@ -130,7 +130,7 @@
   "FlatTextureName": "-1",
   "UseExactDimensions": false,
   "FlatPortrait": 6901406,
-	"Priority": 5
+	"Priority": 1
 },
 {
 	"Replacement": "182_34-0 - 69014_7-0",
@@ -149,7 +149,7 @@
 	"FlatTextureName": "-1",
 	"UseExactDimensions": false,
 	"FlatPortrait": 6901407,
-	"Priority": 10
+	"Priority": 1
 },
 {
 	"Replacement": "182_32-0 - 69014_8-0",
@@ -168,7 +168,7 @@
 	"FlatTextureName": "-1",
 	"UseExactDimensions": false,
 	"FlatPortrait": 6901408,
-	"Priority": 10
+	"Priority": 1
 },
 {
 	"Replacement": "182_57-0 - 69014_9-0",
@@ -187,7 +187,7 @@
 	"FlatTextureName": "-1",
 	"UseExactDimensions": false,
 	"FlatPortrait": 69014,
-	"Priority": 10
+	"Priority": 1
 },
 {
 	"Replacement": "182_33-0 - 69014_10-0",
@@ -206,7 +206,7 @@
 	"FlatTextureName": "-1",
 	"UseExactDimensions": false,
 	"FlatPortrait": 6901410,
-	"Priority": 10
+	"Priority": 1
 },
 {
 	"Replacement": "184_14-0 - 69014_11-0",
@@ -225,7 +225,7 @@
 	"FlatTextureName": "-1",
 	"UseExactDimensions": false,
 	"FlatPortrait": 6901411,
-	"Priority": 10
+	"Priority": 1
 },
 {
 	"Replacement": "357_11-0 - 69014_12-0",
@@ -244,7 +244,7 @@
 	"FlatTextureName": "-1",	
 	"UseExactDimensions": false,
 	"FlatPortrait": 6901412,
-	"Priority": 5
+	"Priority": 1
 },
 {
 	"Replacement": "357_10-0 - 69014_13-0",
@@ -262,6 +262,6 @@
 	"FlatTextureName": "-1",	
 	"UseExactDimensions": false,
 	"FlatPortrait": 6901413,
-	"Priority": 5
+	"Priority": 1
 }
 ]

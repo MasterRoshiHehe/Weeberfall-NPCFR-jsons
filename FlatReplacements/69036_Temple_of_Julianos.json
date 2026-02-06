@@ -17,7 +17,7 @@
 	"FlatTextureName": "-1",
 	"UseExactDimensions": false,
 	"FlatPortrait": 2181600,
-	"Priority": 200
+	"Priority": 10
 },
 {
 	"Replacement": "182_40-0 - 69036_1-0",
@@ -37,7 +37,7 @@
 	"FlatTextureName": "-1",
 	"UseExactDimensions": false,
 	"FlatPortrait": 2181601,
-	"Priority": 200
+	"Priority": 10
 },
 {
 	"Replacement": "183_12-0 - 69036_2-0",
@@ -57,7 +57,7 @@
 	"FlatTextureName": "-1",
 	"UseExactDimensions": false,
 	"FlatPortrait": 2181602,
-	"Priority": 200
+	"Priority": 10
 },
 {
 	"Replacement": "177_5-0 - 69036_3-0",
@@ -77,7 +77,7 @@
 	"FlatTextureName": "-1",
 	"UseExactDimensions": false,
 	"FlatPortrait": 2181603,
-	"Priority": 200
+	"Priority": 10
 },
 {
 	"Replacement": "177_3-0 - 69036_4-0",
@@ -97,7 +97,7 @@
 	"FlatTextureName": "-1",
 	"UseExactDimensions": false,
 	"FlatPortrait": 2181604,
-	"Priority": 200
+	"Priority": 10
 },
 {
     "Replacement": "177_2-0 - 69036_5-0",
@@ -117,7 +117,7 @@
     "FlatTextureName": "-1",
     "UseExactDimensions": false,
     "FlatPortrait": 2181605,
-    "Priority": 200
+    "Priority": 10
 },
 {
     "Replacement": "177_1-0 - 69036_6-0",
@@ -137,7 +137,7 @@
     "FlatTextureName": "-1",
     "UseExactDimensions": false,
     "FlatPortrait": 2181606,
-    "Priority": 200
+    "Priority": 10
 },
 {
     "Replacement": "182_24-0 - 69036_7-0",
@@ -157,7 +157,7 @@
     "FlatTextureName": "-1",
     "UseExactDimensions": false,
     "FlatPortrait": 2181607,
-    "Priority": 200
+    "Priority": 10
 },
 {
     "Replacement": "183_3-0 - 69036_8-0",
@@ -177,6 +177,6 @@
     "FlatTextureName": "-1",
     "UseExactDimensions": false,
     "FlatPortrait": 2181608,
-    "Priority": 200
+    "Priority": 10
 }
 ]

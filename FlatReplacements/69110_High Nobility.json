@@ -1,0 +1,20 @@
+[
+{
+	"Replacement": "357_2-0 - 69110_0-0",
+	"Category": "High Nobility",
+	"Description": "Redguard Girl White Dress",
+	"Regions":  [-1],
+	"FactionId": -1,
+	"BuildingType": -1,
+	"QualityMin": 1,
+	"QualityMax": 20,
+	"TextureArchive": 357,
+	"TextureRecord": 2,
+	"ReplaceTextureArchive": 69110,
+	"ReplaceTextureRecord": 0,
+	"FlatTextureName": "-1",	
+	"UseExactDimensions": false,
+	"FlatPortrait": 6911000,
+	"Priority": 1
+}
+]

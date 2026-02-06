@@ -1,0 +1,21 @@
+[
+{
+	"Replacement": "184_4-0 - 69104_0-0",
+	"Category": "General Stores",
+	"Description": "Old Orc",
+	"Regions": [-1],
+	"FactionId": -1,
+	"BuildingType": 5,
+	"QualityMin": 1,
+	"QualityMax": 20,
+	"NameBank": 2,
+	"TextureArchive": 184,
+	"TextureRecord": 4,
+	"ReplaceTextureArchive": 69104,
+	"ReplaceTextureRecord": 0,
+	"FlatTextureName": "-1",
+	"UseExactDimensions": false,
+	"FlatPortrait": 6910400,
+	"Priority": 1
+}
+]
